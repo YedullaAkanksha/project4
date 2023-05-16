@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Pan",
+      "des": "Utensil",
+      "price": "500",
+      "status": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "Bowl",
+      "des": "Utensil",
+      "price": "540",
+      "status": "In Stock"
+    },
+    {
+      "name": "Oil",
+      "des": "Cooking",
+      "price": "120",
+      "status": "In Stock",
+      "id": 4
+    },
+    {
+      "name": "Rice",
+      "des": "Cooking",
+      "price": "120",
+      "status": "In Stock",
+      "id": 5
+    },
+    {
+      "name": "Grains",
+      "des": "Cooking",
+      "price": "120",
+      "status": "In Stock",
+      "id": 6
+    }
+  ]
+}
